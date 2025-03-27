@@ -7,3 +7,6 @@ Shradha Khapra
 
 # Student
 Ratikanta Mohanty
+
+# batch
+new sigma 6.0
